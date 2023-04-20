@@ -1,5 +1,7 @@
 .mb{
     display: flex;
     align-items: baseline;
+    height:30px;
+    width:30px;
 
 }
